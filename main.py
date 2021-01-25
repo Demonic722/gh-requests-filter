@@ -117,6 +117,8 @@ def get_code_requests(system: str, max_pages: int) -> List[CodeRequest]:
             
             if filtered_code_requests:
                 code_requests.extend(filtered_code_requests)
+        else:
+            sys.exit(f'Error: Received error code {response.status_code} while trying to connect')
     
     return code_requests
 
