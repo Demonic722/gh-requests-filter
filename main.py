@@ -126,7 +126,7 @@ if __name__ == '__main__':
     system = system_lookup.get(system)
 
     if system:
-        print(f'Searching the first {max_pages} pages on GameHacking.org for {system} requests...\n')
+        print(f'Searching the first {max_pages} pages on GameHacking.org for {system} requests...')
         file_name = system.lower().replace(' ', '-').replace('/', '-') + '-code-requests.txt'
         code_requests = get_code_requests(system, max_pages)
         
