@@ -122,7 +122,7 @@ def get_code_requests(system: str, max_pages: int) -> List[CodeRequest]:
 
 
 if __name__ == '__main__':
-    system, max_pages = get_command_line_args()
+    (system, max_pages) = get_command_line_args()
     system = system_lookup.get(system)
 
     if system:
