@@ -131,7 +131,7 @@ if __name__ == '__main__':
         code_requests = get_code_requests(system, max_pages)
         
         if code_requests:
-            with open(file_name, 'a') as f:
+            with open(file_name, 'a', encoding="utf-8") as f:
                 f.write(f'{system} Code Requests ({len(code_requests)}):\n\n')
 
                 for code_request in code_requests:
