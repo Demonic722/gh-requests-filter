@@ -2,6 +2,14 @@
 
 Filters GameHacking.org's requests page by system.
 
+## Dependencies
+
+`bs4` and `requests` are required and can be installed via `pip3` with this command:
+
+```shell
+% pip3 install bs4 && pip3 install requests
+```
+
 ## Usage
 
 Navigate to the directory with the script and run:
