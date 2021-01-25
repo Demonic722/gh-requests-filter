@@ -111,6 +111,8 @@ if __name__ == '__main__':
 
     if system:
         print(f'Searching the first {max_pages} pages on GameHacking.org for {system} requests...\n')
+        file_name = system.lower().replace(' ', '-').replace('/', '-') + '-code-requests.txt'
+        code_requests = []
 
         for x in range(0, max_pages):
             response = search(x)
@@ -119,6 +121,20 @@ if __name__ == '__main__':
                 filtered_code_requests = filter_code_requests(response, system)
 
                 if filtered_code_requests:
-                    print(filtered_code_requests)
+                    code_requests.extend(filtered_code_requests)
+        
+        if code_requests:
+            with open(file_name, 'a') as f:
+                f.write(f'{system} Code Requests ({len(code_requests)}):\n\n')
+
+                for code_request in code_requests:
+                    f.writelines([
+                        f'Requester: {code_request.user}\n',
+                        f'Game: {code_request.game} ({code_request.system})\n',
+                        f'Name: {code_request.name}\n',
+                        f'Date: {code_request.date}\n\n'
+                    ])
+        else:
+            sys.exit(f'There are no code requests for {system} in the first {max_pages} pages')
     else:
         sys.exit('Error: GameHacking.org does not support this system')

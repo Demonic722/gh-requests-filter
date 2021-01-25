@@ -1,6 +1,6 @@
 # gh-requests-filter
 
-Filters GameHacking.org's requests page by system.
+Filters GameHacking.org's requests page by system and outputs the results to a txt file.
 
 ## Dependencies
 
