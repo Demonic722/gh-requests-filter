@@ -2,7 +2,7 @@
 
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
-from typing import List
+from typing import List, Tuple
 import requests
 import sys
 
@@ -66,6 +66,18 @@ system_lookup = {
 }
 
 
+def get_command_line_args() -> Tuple:
+    if len(sys.argv) == 2:
+        return (sys.argv[1], 30)
+    elif len(sys.argv) == 3:
+        if sys.argv[2].isnumeric():
+            return (sys.argv[1], int(sys.argv[2]))
+        else:
+            sys.exit(f'Error: {sys.argv[2]} is not a number')
+    
+    return ('nintendo ds', 30)
+
+
 def search(page: int = 0) -> requests.Response:
     return requests.get(f'https://gamehacking.org/requests/{page}')
 
@@ -94,34 +106,29 @@ def filter_code_requests(response: requests.Response, system: str) -> List[CodeR
     return filtered_code_requests
 
 
-if __name__ == '__main__':
-    system = 'nintendo ds'
-    max_pages = 30
+def get_code_requests(system: str, max_pages: int) -> List[CodeRequest]:
+    code_requests = []
 
-    if len(sys.argv) > 1:
-        system = sys.argv[1].lower()
-
-        if len(sys.argv) == 3:
-            if sys.argv[2].isnumeric():
-                max_pages = int(sys.argv[2])
-            else:
-                sys.exit(f'Error: {sys.argv[2]} is not a number')
+    for x in range(0, max_pages):
+        response = search(x)
+        
+        if response.status_code == 200:
+            filtered_code_requests = filter_code_requests(response, system)
+            
+            if filtered_code_requests:
+                code_requests.extend(filtered_code_requests)
     
+    return code_requests
+
+
+if __name__ == '__main__':
+    system, max_pages = get_command_line_args()
     system = system_lookup.get(system)
 
     if system:
         print(f'Searching the first {max_pages} pages on GameHacking.org for {system} requests...\n')
         file_name = system.lower().replace(' ', '-').replace('/', '-') + '-code-requests.txt'
-        code_requests = []
-
-        for x in range(0, max_pages):
-            response = search(x)
-            
-            if response.status_code == 200:
-                filtered_code_requests = filter_code_requests(response, system)
-
-                if filtered_code_requests:
-                    code_requests.extend(filtered_code_requests)
+        code_requests = get_code_requests(system, max_pages)
         
         if code_requests:
             with open(file_name, 'a') as f:
