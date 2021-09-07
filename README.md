@@ -7,7 +7,7 @@ Filters GameHacking.org's requests page by system and outputs the results to a t
 `bs4` and `requests` are required and can be installed via `pip3` with this command:
 
 ```shell
-% pip3 install bs4 && pip3 install requests
+% python3 -m pip install beautifulsoup4 && python3 -m pip install requests
 ```
 
 ## Usage
