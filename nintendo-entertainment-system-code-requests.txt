@@ -1,0 +1,452 @@
+Nintendo Entertainment System Code Requests (90):
+
+Requester: ZikoRenamon
+Game: Bubble Bobble (USA) (Nintendo Entertainment System)
+Name: Bubble Bobble Wii
+Date: Saturday, Apr 24th 2021 @ 2:29am
+
+Requester: DonkeyKonga
+Game: Super Mario Bros. 3 (USA) (Nintendo Entertainment System)
+Name: Walk thru walls (no clipping) (even on hills and underground levels)
+Date: Tuesday, Apr 20th 2021 @ 9:51pm
+
+Requester: DonkeyKonga
+Game: Mike Tyson's Punch-Out!! (Japan, USA) (Nintendo Entertainment System)
+Name: Only uppercuts damage the opponent
+Date: Tuesday, Apr 20th 2021 @ 9:45pm
+
+Requester: DonkeyKonga
+Game: Mike Tyson's Punch-Out!! (Japan, USA) (Nintendo Entertainment System)
+Name: Opponent always get up at the count of 9
+Date: Tuesday, Apr 20th 2021 @ 9:36pm
+
+Requester: bilgeodullofcali45
+Game: Elevator Action (USA) (Nintendo Entertainment System)
+Name: Untouchable
+Date: Saturday, Feb 6th 2021 @ 3:30pm
+
+Requester: bilgeodullofcali45
+Game: Yie Ar Kung-Fu (Japan) (Rev 1.4) (Nintendo Entertainment System)
+Name: Rapid Fire
+Date: Friday, Feb 5th 2021 @ 4:00pm
+
+Requester: bilgeodullofcali45
+Game: Zunou Senkan Galg (J) [!] (Nintendo Entertainment System)
+Name: Rapid Fire
+Date: Friday, Feb 5th 2021 @ 3:22pm
+
+Requester: bilgeodullofcali45
+Game: Zunou Senkan Galg (J) [!] (Nintendo Entertainment System)
+Name: One Hit Kill
+Date: Sunday, Jan 31st 2021 @ 4:46am
+
+Requester: bilgeodullofcali45
+Game: Jurassic Park (USA) (Nintendo Entertainment System)
+Name: Hit Anywhere 
+Date: Sunday, Jan 3rd 2021 @ 1:39pm
+
+Requester: bilgeodullofcali45
+Game: Tag Team Wrestling (USA) (Nintendo Entertainment System)
+Name: Untouchable
+Date: Friday, Jan 1st 2021 @ 10:36am
+
+Requester: bilgeodullofcali45
+Game: Tiger-Heli (USA) (Nintendo Entertainment System)
+Name: Hit Anywhere 
+Date: Monday, Dec 28th 2020 @ 2:53pm
+
+Requester: bilgeodullofcali45
+Game: Kaiketsu Yancha Maru 2 - Karakuri Land (Japan) (Nintendo Entertainment System)
+Name: Jump in Midair 
+Date: Sunday, Dec 27th 2020 @ 8:28pm
+
+Requester: bilgeodullofcali45
+Game: Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (Nintendo Entertainment System)
+Name: Jump in Midair 
+Date: Sunday, Dec 27th 2020 @ 8:28pm
+
+Requester: bilgeodullofcali45
+Game: Spider-Man - Return of the Sinister Six (USA) (Nintendo Entertainment System)
+Name: Jump in Midair 
+Date: Sunday, Dec 27th 2020 @ 3:34pm
+
+Requester: bilgeodullofcali45
+Game: Lethal Weapon (USA) (Nintendo Entertainment System)
+Name: Hit Anywhere 
+Date: Monday, Nov 23rd 2020 @ 8:41am
+
+Requester: bilgeodullofcali45
+Game: Milon's Secret Castle (USA) (Nintendo Entertainment System)
+Name: Jump in Midair 
+Date: Tuesday, Nov 17th 2020 @ 7:18pm
+
+Requester: bilgeodullofcali45
+Game: Dick Tracy (USA) (Nintendo Entertainment System)
+Name: Jump in Midair 
+Date: Tuesday, Nov 17th 2020 @ 3:41pm
+
+Requester: bilgeodullofcali45
+Game: Jungle Book, The (USA) (Nintendo Entertainment System)
+Name: Jump in Midair 
+Date: Monday, Nov 16th 2020 @ 8:53am
+
+Requester: bilgeodullofcali45
+Game: Karateka (Japan) (Nintendo Entertainment System)
+Name: İnvincibility
+Date: Sunday, Nov 15th 2020 @ 12:57pm
+
+Requester: bilgeodullofcali45
+Game: Dragon Power (USA) (Nintendo Entertainment System)
+Name: Invincibility And Hit Anywhere 
+Date: Wednesday, Nov 11th 2020 @ 4:44am
+
+Requester: eadmaster
+Game: Double Dragon III - The Sacred Stones (USA) (Nintendo Entertainment System)
+Name: enable debug features without pressing any key
+Date: Sunday, Aug 2nd 2020 @ 9:16am
+
+Requester: eadmaster
+Game: Gun-Dec (Japan) (Nintendo Entertainment System)
+Name: enable stage select (GG code)
+Date: Sunday, Aug 2nd 2020 @ 8:26am
+
+Requester: eadmaster
+Game: Mitsume ga Tooru (Japan) (Nintendo Entertainment System)
+Name: enable Level Select
+Date: Sunday, Aug 2nd 2020 @ 8:15am
+
+Requester: eadmaster
+Game: Ninja Jajamaru - Ginga Daisakusen (Japan) (Nintendo Entertainment System)
+Name: enable stage select
+Date: Sunday, Aug 2nd 2020 @ 8:03am
+
+Requester: Ramdemann
+Game: Tiger-Heli (USA) (Nintendo Entertainment System)
+Name: Small Helis Don't Blow Up
+Date: Sunday, May 17th 2020 @ 3:48am
+
+Requester: Ramdemann
+Game: Tiger-Heli (USA) (Nintendo Entertainment System)
+Name: Infinite Missiles
+Date: Sunday, May 17th 2020 @ 3:45am
+
+Requester: Ramdemann
+Game: Rampage (USA) (Nintendo Entertainment System)
+Name: Invincible
+Date: Friday, May 15th 2020 @ 6:23am
+
+Requester: Ramdemann
+Game: Rad Racer II (USA) (Nintendo Entertainment System)
+Name: Invincible
+Date: Friday, May 15th 2020 @ 6:18am
+
+Requester: Ramdemann
+Game: Rad Racer II (USA) (Nintendo Entertainment System)
+Name: Can Drive On Dirt
+Date: Friday, May 15th 2020 @ 6:17am
+
+Requester: Ramdemann
+Game: Paperboy 2 (USA) (Nintendo Entertainment System)
+Name: Invincible
+Date: Thursday, May 14th 2020 @ 6:03am
+
+Requester: Ramdemann
+Game: Mach Rider (Japan, USA) (Nintendo Entertainment System)
+Name: Invincible
+Date: Tuesday, May 12th 2020 @ 5:25am
+
+Requester: Ramdemann
+Game: Indiana Jones and the Temple of Doom (USA) (Nintendo Entertainment System)
+Name: Walk Through Walls
+Date: Friday, May 8th 2020 @ 5:30am
+
+Requester: Vallenatero2016
+Game: Kage no Densetsu (Japan) (Nintendo Entertainment System)
+Name: Untouchable
+Date: Wednesday, Apr 29th 2020 @ 3:59pm
+
+Requester: Vallenatero2016
+Game: Galaga (Japan) (Nintendo Entertainment System)
+Name: Become invincible
+Date: Wednesday, Apr 29th 2020 @ 3:48pm
+
+Requester: Vallenatero2016
+Game: Galaga (Japan) (Nintendo Entertainment System)
+Name: Can't be caught by tractor beam!
+Date: Wednesday, Apr 29th 2020 @ 3:43pm
+
+Requester: Vallenatero2016
+Game: Front Line (Japan) (Nintendo Entertainment System)
+Name: Invincibility (Walk Thru Enemies)
+Date: Wednesday, Apr 29th 2020 @ 3:36pm
+
+Requester: Vallenatero2016
+Game: Double Dragon (USA) (Nintendo Entertainment System)
+Name: Invincibility (Walk Thru Enemies)
+Date: Wednesday, Apr 29th 2020 @ 3:16pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima (Japan) (Nintendo Entertainment System)
+Name: Disable Skateboard
+Date: Wednesday, Apr 29th 2020 @ 2:55pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima (Japan) (Nintendo Entertainment System)
+Name: Invincibility Bee
+Date: Wednesday, Apr 29th 2020 @ 2:54pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima (Japan) (Nintendo Entertainment System)
+Name: Stop energy bar counting down
+Date: Wednesday, Apr 29th 2020 @ 2:53pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima II (Japan) (Nintendo Entertainment System)
+Name: Never Lose Power Ups - Slot 5
+Date: Wednesday, Apr 29th 2020 @ 2:52pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima II (Japan) (Nintendo Entertainment System)
+Name: Never Lose Power Ups - Slot 3
+Date: Wednesday, Apr 29th 2020 @ 2:51pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima II (Japan) (Nintendo Entertainment System)
+Name: Never Lose Power Ups - Slot 2
+Date: Wednesday, Apr 29th 2020 @ 2:51pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima II (Japan) (Nintendo Entertainment System)
+Name: Never Lose Power Ups - Slot 1
+Date: Wednesday, Apr 29th 2020 @ 2:51pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima II (Japan) (Nintendo Entertainment System)
+Name: Infinite lives
+Date: Wednesday, Apr 29th 2020 @ 2:47pm
+
+Requester: Ramdemann
+Game: Marble Madness (USA) (Nintendo Entertainment System)
+Name: Roll Through Walls
+Date: Monday, Apr 27th 2020 @ 5:15am
+
+Requester: Ramdemann
+Game: Arkanoid II (Japan) (Nintendo Entertainment System)
+Name: All Bars Can Be Destroyed With One Hit
+Date: Saturday, Mar 21st 2020 @ 6:03am
+
+Requester: Ramdemann
+Game: Wario's Woods (USA) (Nintendo Entertainment System)
+Name: Can Pick Up Diamonds
+Date: Tuesday, Mar 10th 2020 @ 5:06am
+
+Requester: eadmaster
+Game: Mappy Kids (Japan) (Nintendo Entertainment System)
+Name: skip minigames at the end of each stage
+Date: Friday, Feb 28th 2020 @ 10:23pm
+
+Requester: Ramdemann
+Game: Dig Dug II - Trouble in Paradise (USA) (Nintendo Entertainment System)
+Name: Invincible Against Flames
+Date: Wednesday, Feb 19th 2020 @ 6:43am
+
+Requester: DaveTheMan
+Game: Ultimate Air Combat (USA) (Nintendo Entertainment System)
+Name: Infinite Damage
+Date: Wednesday, Jan 1st 2020 @ 11:43pm
+
+Requester: Ramdemann
+Game: Teenage Mutant Ninja Turtles (USA) (Nintendo Entertainment System)
+Name: Press Start To Skip Level
+Date: Monday, Dec 9th 2019 @ 10:51pm
+
+Requester: Ramdemann
+Game: Teenage Mutant Ninja Turtles (USA) (Nintendo Entertainment System)
+Name: Shredder Can't Turn You Into A Baby And Kill You
+Date: Monday, Dec 9th 2019 @ 10:47pm
+
+Requester: Ramdemann
+Game: Rampage (USA) (Nintendo Entertainment System)
+Name: Invincible Against Tank Bullets
+Date: Sunday, Nov 10th 2019 @ 12:21am
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima III (Japan) (Nintendo Entertainment System)
+Name: Start with a Invincibility Shield
+Date: Saturday, Nov 2nd 2019 @ 4:44pm
+
+Requester: Ramdemann
+Game: Cobra Command (USA) (Nintendo Entertainment System)
+Name: Only Need One Hostage
+Date: Wednesday, Oct 23rd 2019 @ 12:06am
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima III (Japan) (Nintendo Entertainment System)
+Name: Always have 99 of all items
+Date: Thursday, Oct 3rd 2019 @ 8:25pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima III (Japan) (Nintendo Entertainment System)
+Name: Infinite Usage of Items
+Date: Thursday, Oct 3rd 2019 @ 8:25pm
+
+Requester: Vallenatero2016
+Game: Takahashi Meijin no Bouken-jima III (Japan) (Nintendo Entertainment System)
+Name: Infinite lives
+Date: Thursday, Oct 3rd 2019 @ 8:24pm
+
+Requester: Vallenatero2016
+Game: Ninja Hattori-kun - Ninja wa Syugyou de Gozaru no Maki (Japan) (Nintendo Entertainment System)
+Name: Invulnerability
+Date: Monday, Sep 23rd 2019 @ 5:52pm
+
+Requester: Ramdemann
+Game: Predator (USA) (Nintendo Entertainment System)
+Name: Walk Through Walls
+Date: Saturday, Apr 20th 2019 @ 6:02am
+
+Requester: Vallenatero2016
+Game: Super Mario Bros. 2 (USA) (Rev 1) (Nintendo Entertainment System)
+Name: Invincibility (You Go Through Everything)
+Date: Friday, Mar 22nd 2019 @ 8:19pm
+
+Requester: eadmaster
+Game: Chou-Wakusei Senki - MetaFight (Japan) (Nintendo Entertainment System)
+Name: infinite health (GG code)
+Date: Wednesday, Mar 20th 2019 @ 9:20am
+
+Requester: Retrocheats
+Game: Pac-Man (USA) (Namco) (Nintendo Entertainment System)
+Name: Change all ghosts
+Date: Thursday, Jan 24th 2019 @ 7:03pm
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: No Police
+Date: Saturday, Jul 14th 2018 @ 11:34am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Always Spikes/Icicles
+Date: Saturday, Jul 14th 2018 @ 11:34am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Never Spikes/Icicles
+Date: Saturday, Jul 14th 2018 @ 11:33am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: No flying flag cats
+Date: Saturday, Jul 14th 2018 @ 11:33am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Start on level 5
+Date: Saturday, Jul 14th 2018 @ 11:33am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Start on level 4
+Date: Saturday, Jul 14th 2018 @ 11:28am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Start on level 3
+Date: Saturday, Jul 14th 2018 @ 11:28am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Start on level 2
+Date: Saturday, Jul 14th 2018 @ 11:28am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Start on level 1
+Date: Saturday, Jul 14th 2018 @ 11:28am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Infinite oil
+Date: Saturday, Jul 14th 2018 @ 11:27am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Start with extra oil
+Date: Saturday, Jul 14th 2018 @ 11:27am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Start with triple lives
+Date: Saturday, Jul 14th 2018 @ 11:27am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Start with double lives
+Date: Saturday, Jul 14th 2018 @ 11:26am
+
+Requester: Vallenatero2016
+Game: City Connection (Japan) (Nintendo Entertainment System)
+Name: Infinite lives
+Date: Saturday, Jul 14th 2018 @ 11:26am
+
+Requester: Vallenatero2016
+Game: Super Mario World (Unl) (Nintendo Entertainment System)
+Name: Walk Thru Enemies (Game Genie)
+Date: Friday, May 18th 2018 @ 2:42pm
+
+Requester: Vallenatero2016
+Game: Super Mario World (Unl) (Nintendo Entertainment System)
+Name: Enemies can't kill Mario and Luigi
+Date: Monday, May 7th 2018 @ 8:28pm
+
+Requester: 
+Game: Metal Gear (USA) (Nintendo Entertainment System)
+Name: Infinite Item Usage (Game Genie)
+Date: Tuesday, Apr 24th 2018 @ 10:27pm
+
+Requester: Vallenatero2016
+Game: Galaga (Japan) (Nintendo Entertainment System)
+Name: Start with twin shots
+Date: Monday, Apr 23rd 2018 @ 6:18pm
+
+Requester: Vallenatero2016
+Game: Kinnikuman - Muscle Tag Match (Japan) (Nintendo Entertainment System)
+Name: Invincibility
+Date: Thursday, Apr 19th 2018 @ 4:10pm
+
+Requester: Vallenatero2016
+Game: Mortal Kombat 4 (Unl) [!] (Nintendo Entertainment System)
+Name: Player 1 Invincibility
+Date: Monday, Apr 16th 2018 @ 4:40pm
+
+Requester: Vallenatero2016
+Game: Mortal Kombat 2 (Unl) [!] (Nintendo Entertainment System)
+Name: Player 1 Invincibility
+Date: Monday, Apr 16th 2018 @ 4:14pm
+
+Requester: mechawily
+Game: Final Fantasy III (Japan) (Nintendo Entertainment System)
+Name: Quick Experience Gain
+Date: Thursday, Mar 22nd 2018 @ 10:54am
+
+Requester: 
+Game: Metal Gear (USA) (Nintendo Entertainment System)
+Name: Infinite Items (Game Genie)
+Date: Wednesday, Mar 21st 2018 @ 11:53pm
+
+Requester: mechawily
+Game: Final Fantasy II (Japan) (Nintendo Entertainment System)
+Name: Protection from Status Ailments (All Characters)
+Date: Wednesday, Mar 21st 2018 @ 11:12pm
+
+Requester: mechawily
+Game: Final Fantasy II (Japan) (Nintendo Entertainment System)
+Name: Infinite HP (All Characters)
+Date: Wednesday, Mar 21st 2018 @ 11:10pm
+
+Requester: eadmaster
+Game: Hitler no Fukkatsu - Top Secret (Japan) (Nintendo Entertainment System)
+Name: Access all the levels on the map
+Date: Tuesday, Apr 28th 2015 @ 1:09pm
+
