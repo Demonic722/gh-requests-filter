@@ -139,3 +139,9 @@ cython_debug/
 
 # macOS
 .DS_Store
+
+# Generated txt files
+*code-requests.txt
+
+# VS
+.vs/
